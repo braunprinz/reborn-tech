@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Kontakt | Gespräch starten",
+    "description": "Starten Sie ein Gespräch über Ihre digitale Infrastruktur. Qualifizierungsformular für ernsthafte Anfragen."
+  },
+  "hero": {
+    "title": "Gespräch starten",
+    "subtitle": "Kein generisches Kontaktformular—ein Qualifizierungsprozess"
+  },
+  "intro": {
+    "title": "Bevor wir sprechen",
+    "description": "Dieses Formular hilft uns, Ihre Situation vor unserem Gespräch zu verstehen. Je mehr Kontext Sie geben, desto nützlicher wird unser erstes Gespräch. Wir antworten auf alle qualifizierten Anfragen innerhalb von 48 Stunden."
+  },
+  "form": {
+    "businessName": {
+      "label": "Firmenname",
+      "placeholder": "Ihr Unternehmensname"
+    },
+    "website": {
+      "label": "Website",
+      "placeholder": "https://ihreseite.de"
+    },
+    "gbpLink": {
+      "label": "Google Business Profile (optional)",
+      "placeholder": "https://maps.google.com/..."
+    },
+    "country": {
+      "label": "Land",
+      "placeholder": "Deutschland"
+    },
+    "city": {
+      "label": "Stadt",
+      "placeholder": "München"
+    },
+    "primaryNeeds": {
+      "label": "Primäre Anforderungen",
+      "placeholder": "Wählen Sie die Services, die Sie interessieren",
+      "options": [
+        { "value": "local-growth", "label": "Lokales Wachstum / Maps-Sichtbarkeit" },
+        { "value": "website", "label": "Website-Erstellung oder Redesign" },
+        { "value": "automation", "label": "KI-Automatisierung" },
+        { "value": "custom-it", "label": "Custom IT Services" },
+        { "value": "not-sure", "label": "Noch unsicher" }
+      ]
+    },
+    "budgetRange": {
+      "label": "Budget-Bereich",
+      "placeholder": "Wählen Sie einen Bereich",
+      "options": [
+        { "value": "under-2k", "label": "Unter 2.000€/Monat" },
+        { "value": "2k-5k", "label": "2.000€ - 5.000€/Monat" },
+        { "value": "5k-10k", "label": "5.000€ - 10.000€/Monat" },
+        { "value": "10k-plus", "label": "10.000€+/Monat" },
+        { "value": "project", "label": "Einmaliges Projektbudget" }
+      ]
+    },
+    "timeline": {
+      "label": "Zeitrahmen",
+      "placeholder": "Wann möchten Sie starten?",
+      "options": [
+        { "value": "asap", "label": "So schnell wie möglich" },
+        { "value": "1-month", "label": "Innerhalb 1 Monat" },
+        { "value": "1-3-months", "label": "1-3 Monate" },
+        { "value": "exploring", "label": "Erkunde nur Optionen" }
+      ]
+    },
+    "message": {
+      "label": "Nachricht",
+      "placeholder": "Erzählen Sie uns von Ihrer Situation, Herausforderungen und Zielen. Je mehr Kontext, desto besser."
+    },
+    "submit": "Anfrage senden",
+    "submitting": "Wird gesendet..."
+  },
+  "success": {
+    "title": "Anfrage erhalten",
+    "description": "Vielen Dank für Ihre detaillierte Anfrage. Wir prüfen Ihre Informationen und antworten innerhalb von 48 Stunden mit den nächsten Schritten."
+  },
+  "aside": {
+    "title": "Was passiert als nächstes?",
+    "steps": [
+      "Wir prüfen Ihre Anfrage und bewerten die Passung",
+      "Bei Qualifikation vereinbaren wir ein 30-minütiges Erstgespräch",
+      "Wir geben eine erste Einschätzung und Empfehlungen",
+      "Bei gegenseitiger Passung definieren wir ein formelles Engagement"
+    ],
+    "note": "Wir nehmen nicht jedes Projekt an. Wir fokussieren uns auf Kunden, bei denen wir echten Impact liefern und die Qualität unserer Arbeit aufrechterhalten können."
+  }
+}

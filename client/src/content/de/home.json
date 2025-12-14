@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "title": "Digitaler Systempartner | Sichtbarkeit, Conversion, Automatisierung",
+    "description": "Ein spezialisierter Digitalpartner für vernetzte Systeme: lokale Sichtbarkeit, Conversion-Optimierung, Automatisierung und maßgeschneiderte IT-Lösungen."
+  },
+  "nav": [
+    { "label": "Leistungen", "href": "/de/services" },
+    { "label": "Projekte", "href": "/de/work" },
+    { "label": "Über uns", "href": "/de/about" },
+    { "label": "Kontakt", "href": "/de/contact" }
+  ],
+  "hero": {
+    "headline": "Systeme, keine Kampagnen.",
+    "subheadline": "Wir bauen vernetzte digitale Infrastruktur: Lokale Sichtbarkeit fließt in conversion-optimierte Websites, Automatisierung übernimmt wiederkehrende Prozesse, maßgeschneiderte IT füllt die Lücken.",
+    "ctaPrimary": "Maps-Audit anfragen",
+    "ctaSecondary": "Erstgespräch buchen"
+  },
+  "systemLoop": {
+    "visibility": "Sichtbarkeit",
+    "website": "Website",
+    "automation": "Automatisierung",
+    "custom": "Custom IT"
+  },
+  "proof": {
+    "title": "Messbare Ergebnisse, keine Eitelkeitsmetriken",
+    "metrics": [
+      {
+        "value": "94%",
+        "label": "Maps-Abdeckung",
+        "description": "Durchschnittliche Local-Pack-Sichtbarkeit nach 6 Monaten"
+      },
+      {
+        "value": "2,4x",
+        "label": "Conversion-Steigerung",
+        "description": "Median-Verbesserung bei qualifizierten Anfragen"
+      },
+      {
+        "value": "18h",
+        "label": "Stunden gespart/Woche",
+        "description": "Durch Workflow-Automatisierung pro Kunde"
+      }
+    ]
+  },
+  "pillars": {
+    "title": "Vier Säulen. Ein System.",
+    "subtitle": "Jede Ebene baut auf der vorherigen auf. Sichtbarkeit erzeugt Traffic. Websites konvertieren Traffic. Automatisierung skaliert Prozesse. Custom IT löst den Rest.",
+    "items": [
+      {
+        "id": "local-growth",
+        "title": "Lokales Wachstum",
+        "tagline": "Dominiere die Maps-Ergebnisse.",
+        "outcomes": [
+          "Google Business Profile Optimierung",
+          "Branchenverzeichnisse & Konsistenz",
+          "Local-Pack-Monitoring & Reporting"
+        ],
+        "href": "/de/services/local-growth"
+      },
+      {
+        "id": "website",
+        "title": "Website-Erstellung",
+        "tagline": "Besucher konvertieren, nicht nur Traffic.",
+        "outcomes": [
+          "Conversion-fokussierte Architektur",
+          "Performance & Core Web Vitals",
+          "Redesigns & Migrationen"
+        ],
+        "href": "/de/services/website"
+      },
+      {
+        "id": "automation",
+        "title": "KI-Automatisierung",
+        "tagline": "Skalieren ohne einzustellen.",
+        "outcomes": [
+          "Workflow-Automatisierung",
+          "System-Integrationen",
+          "KI-gestützte Prozesse"
+        ],
+        "href": "/de/services/ai-automations"
+      },
+      {
+        "id": "custom-it",
+        "title": "Custom IT",
+        "tagline": "Wenn nichts anderes passt.",
+        "outcomes": [
+          "Maßgeschneiderte Entwicklung",
+          "API-Entwicklung",
+          "Daten-Pipelines & Skripte"
+        ],
+        "href": "/de/services/custom-it"
+      }
+    ]
+  },
+  "mapDemo": {
+    "title": "Erkenne deine Sichtbarkeitslücken",
+    "subtitle": "Interaktive Demonstration der Local-Pack-Analyse",
+    "keywordLabel": "Keyword",
+    "cityLabel": "Stadt",
+    "keywords": ["Klempner in der Nähe", "Notfall Klempner", "Heizung reparieren", "Rohrreinigung"],
+    "cities": ["München", "Berlin", "Hamburg", "Frankfurt"],
+    "disclaimer": "Demo-Visualisierung. Echte Audits nutzen Live-Daten von Google."
+  },
+  "method": {
+    "title": "Wie wir arbeiten",
+    "subtitle": "Ein systematischer Ansatz, kein Verkaufsgespräch",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Baseline & Audit",
+        "description": "Wir analysieren den Ist-Zustand aller Kanäle",
+        "details": [
+          "Vollständiges Sichtbarkeits-Audit",
+          "Website-Performance-Analyse",
+          "Prozess- & Workflow-Review",
+          "Wettbewerbsanalyse"
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Aufbau & Reparatur",
+        "description": "Fundamente schaffen und Infrastruktur aufbauen",
+        "details": [
+          "GBP-Optimierung & Bereinigung",
+          "Website-Fixes oder Neubau",
+          "Basis-Automatisierung einrichten",
+          "Prioritäre Quick Wins"
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Autorität & Automatisierung",
+        "description": "Skalieren was funktioniert, automatisieren was sich wiederholt",
+        "details": [
+          "Branchenverzeichnis- & Autoritätsaufbau",
+          "Conversion-Optimierung",
+          "Vollständige Workflow-Automatisierung",
+          "System-Integrationen"
+        ]
+      },
+      {
+        "number": "04",
+        "title": "Iteration & Messung",
+        "description": "Kontinuierliche Verbesserung basierend auf Daten",
+        "details": [
+          "Monatliche Performance-Reviews",
+          "A/B-Tests & Optimierung",
+          "Neue Chancen identifizieren",
+          "ROI-Tracking & Reporting"
+        ]
+      }
+    ]
+  },
+  "work": {
+    "title": "Wie wir denken",
+    "subtitle": "Fallbeispiele, die unseren Ansatz bei typischen Herausforderungen zeigen"
+  },
+  "faq": {
+    "title": "Fragen, die Sie stellen sollten",
+    "subtitle": "Ehrliche Antworten auf unbequeme Fragen",
+    "items": [
+      {
+        "question": "Garantieren Sie Platz 1 Rankings?",
+        "answer": "Nein. Wer das tut, lügt. Wir garantieren systematische Verbesserung der Sichtbarkeit und transparentes Reporting. Rankings hängen von vielen Faktoren ab, die niemand kontrolliert—Wettbewerber, Algorithmus-Änderungen, Marktdynamik. Was wir garantieren: methodische Arbeit und messbarer Fortschritt."
+      },
+      {
+        "question": "Wie lange bis zu ersten Ergebnissen?",
+        "answer": "Verbesserungen der lokalen Sichtbarkeit zeigen sich typischerweise nach 4-8 Wochen. Bedeutende Ranking-Änderungen brauchen 3-6 Monate. Automatisierungs-ROI ist oft sofort spürbar. Wir setzen realistische Erwartungen und liefern monatliche Fortschrittsberichte."
+      },
+      {
+        "question": "Was ist ein realistisches Budget?",
+        "answer": "Lokales Wachstum beginnt bei ca. 800€/Monat. Website-Projekte liegen zwischen 3.000-15.000€ je nach Komplexität. Automatisierungsprojekte werden individuell kalkuliert. Wir machen keine Discount-Arbeit—Sie bekommen Senior-Expertise, keine Junior-Ausführung."
+      },
+      {
+        "question": "Welche Zugänge brauchen Sie?",
+        "answer": "Google Business Profile Inhaberschaft, Google Analytics/Search Console Zugang, Website-Admin-Zugang. Für Automatisierung: Zugang zu den zu verbindenden Systemen. Wir nutzen sichere Credential-Verwaltung und können NDAs unterschreiben."
+      },
+      {
+        "question": "Kann man alles automatisieren?",
+        "answer": "Nein. Automatisierung funktioniert am besten bei wiederholbaren, regelbasierten Aufgaben. Kreative Entscheidungen, komplexe Verhandlungen und Sonderfälle brauchen Menschen. Wir helfen zu identifizieren, was automatisiert werden sollte—und was nicht."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Bereit über Systeme zu sprechen?",
+    "description": "Starten Sie mit einem kostenlosen Maps-Sichtbarkeits-Audit. Kein Verkaufsgespräch, nur Daten.",
+    "buttonText": "Audit anfragen"
+  },
+  "footer": {
+    "tagline": "Systembasiertes digitales Wachstum",
+    "services": "Leistungen",
+    "company": "Unternehmen",
+    "legal": "Rechtliches",
+    "copyright": "Alle Rechte vorbehalten."
+  }
+}

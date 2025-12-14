@@ -1,0 +1,156 @@
+IMPORTANT: STRICT SCOPE CONTROL (NON-NEGOTIABLE)
+
+Do NOT add any features not explicitly listed below.
+
+Do NOT create admin pages, dashboards, login/auth, databases, CMS, blog, analytics, payment, subscriptions, user accounts.
+
+Do NOT introduce new libraries unless explicitly required by the tasks.
+
+Do NOT refactor unrelated parts of the app.
+
+If something is unclear, ask instead of inventing features.
+
+Only implement the tasks listed under “Scope”.
+
+Goal
+
+Implement language selection based on the user’s browser language on first visit, while keeping:
+
+/de/... and /en/... routes
+
+manual language selector
+
+language persistence
+
+This must work reliably and must not add any unrelated features.
+
+Locale Behavior Requirements
+1) First Visit Auto-Select (Browser Language)
+
+When a user visits / for the first time (no saved preference):
+
+Detect browser preferred language from:
+
+navigator.languages (preferred)
+
+fallback to navigator.language
+
+If it starts with:
+
+de → redirect to /de
+
+otherwise → redirect to /en
+
+✅ Examples:
+
+de-DE, de-AT, de-CH → /de
+
+en-US, en-GB → /en
+
+fr-FR, es-ES, etc. → /en (default)
+
+2) Persist Language Preference
+
+Once language is chosen (either auto-detected or manually selected):
+
+Save to localStorage under a single key, e.g. preferredLocale with value "de" or "en"
+
+3) Subsequent Visits
+
+If preferredLocale exists:
+
+Always use it
+
+Visiting / should redirect to /${preferredLocale}
+
+4) Manual Language Switcher
+
+Language switcher must:
+
+Always be visible in the header
+
+On switch:
+
+Save new value to preferredLocale
+
+Navigate to the same path in the new locale if it exists
+
+If same path does not exist, navigate to locale homepage (/de or /en)
+
+5) No Translation Key System
+
+DE and EN content remain separate JSON files
+
+No translation keys
+
+No content fallback
+
+Technical Scope (Only these changes)
+A) Routing / Redirect Logic
+
+Update the logic that handles / route to:
+
+Check localStorage preferredLocale
+
+If missing, determine locale from browser language
+
+Redirect accordingly
+
+B) Default Locale
+
+Update defaultLocale to "de" (only used when browser language detection fails)
+
+C) Language Switcher Robustness
+
+Ensure switching language preserves route if possible, otherwise fallback to locale home.
+
+D) Tests / Verification (Lightweight)
+
+Add a small developer note in README:
+
+How to test:
+
+clear localStorage
+
+change browser language
+
+verify / redirects correctly
+
+Explicitly Forbidden (Do NOT do this)
+
+No admin or login pages
+
+No DB setup or drizzle/prisma
+
+No Express server rewrites unless strictly required
+
+No new “feature pages”
+
+No redesign
+
+No new integrations (email, analytics etc.)
+
+No new font imports
+
+No refactoring unrelated components
+
+Acceptance Criteria (Must be true)
+
+Fresh user with browser language de-DE visiting / → lands on /de
+
+Fresh user with browser language en-US visiting / → lands on /en
+
+Fresh user with browser language fr-FR visiting / → lands on /en
+
+User changes language via selector → preference saved, next / visit uses saved preference
+
+No new routes/pages added
+
+No admin/auth/db added
+
+Existing DE/EN content remains separate and unchanged
+
+Deliverable
+
+Commit only the minimal code changes required to implement the above behavior.
+Do not introduce any other features.

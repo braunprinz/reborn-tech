@@ -1,0 +1,31 @@
+{
+  "impressum": {
+    "title": "Legal Notice",
+    "content": "Information according to § 5 TMG\n\n[Your Company Name]\n[Street and Number]\n[Postal Code and City]\nGermany\n\nRepresented by:\n[Name of Authorized Representative]\n\nContact:\nPhone: [Phone Number]\nEmail: [Email Address]\n\nRegister Entry:\nEntry in the Commercial Register.\nRegistry Court: [Local Court]\nRegistry Number: [HRB Number]\n\nVAT ID:\nVAT identification number according to § 27 a of the VAT Act:\n[VAT ID]\n\nResponsible for content according to § 55 para. 2 RStV:\n[Name]\n[Address]\n\nDispute Resolution:\nThe European Commission provides a platform for online dispute resolution (ODR): https://ec.europa.eu/consumers/odr/\nYou can find our email address in the legal notice above.\n\nWe are not willing or obligated to participate in dispute resolution proceedings before a consumer arbitration board."
+  },
+  "datenschutz": {
+    "title": "Privacy Policy",
+    "sections": [
+      {
+        "title": "1. Privacy at a Glance",
+        "content": "The following notes provide a simple overview of what happens to your personal data when you visit this website. Personal data is any data that can be used to personally identify you."
+      },
+      {
+        "title": "2. General Information and Mandatory Information",
+        "content": "The operators of these pages take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with statutory data protection regulations and this privacy policy."
+      },
+      {
+        "title": "3. Data Collection on This Website",
+        "content": "Data processing on this website is carried out by the website operator. You can find their contact details in the legal notice of this website."
+      },
+      {
+        "title": "4. Contact Form",
+        "content": "If you send us inquiries via the contact form, your details from the inquiry form, including the contact details you provided there, will be stored by us for the purpose of processing the inquiry and in case of follow-up questions. We will not share this data without your consent."
+      },
+      {
+        "title": "5. Your Rights",
+        "content": "You have the right to receive information about the origin, recipient and purpose of your stored personal data free of charge at any time. You also have the right to request the correction or deletion of this data."
+      }
+    ]
+  }
+}

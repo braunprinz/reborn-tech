@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "About | Digital Systems Partner",
+    "description": "A boutique digital partner focused on systems, not campaigns. Learn about our approach and methodology."
+  },
+  "hero": {
+    "title": "About",
+    "subtitle": "Boutique digital partner, not generic agency"
+  },
+  "story": {
+    "title": "Why we exist",
+    "paragraphs": [
+      "Most digital agencies sell isolated services—SEO here, web design there, maybe some automation on the side. The result: fragmented systems that don't talk to each other, multiple vendors to manage, and no one thinking about the whole picture.",
+      "We started because we kept seeing the same pattern: businesses with decent visibility but websites that don't convert. Websites that convert but no one can find them. Operations drowning in manual work because systems aren't connected.",
+      "Our approach is different. We build interconnected infrastructure where visibility feeds your website, your website converts traffic, automation scales operations, and custom engineering fills the gaps. One partner, one system, coherent growth."
+    ]
+  },
+  "principles": {
+    "title": "How we think",
+    "items": [
+      {
+        "title": "Systems over services",
+        "description": "We don't sell hours or deliverables. We build infrastructure that compounds over time. Every piece we add makes the whole system stronger."
+      },
+      {
+        "title": "Transparency over promises",
+        "description": "We don't guarantee rankings or magic results. We set realistic expectations, provide honest assessments, and show you exactly what we're doing and why."
+      },
+      {
+        "title": "Measurement over feelings",
+        "description": "Every recommendation is based on data. Every change is tracked. If something isn't working, we adjust. No vanity metrics, no hand-waving."
+      },
+      {
+        "title": "Depth over breadth",
+        "description": "We work with fewer clients but go deeper. You get senior expertise on every engagement, not junior execution with occasional oversight."
+      }
+    ]
+  },
+  "approach": {
+    "title": "Our methodology",
+    "description": "Every engagement follows the same systematic approach, adapted to your specific situation:",
+    "steps": [
+      "Baseline & Audit—understand your current state",
+      "Build & Fix—address foundations and infrastructure", 
+      "Authority & Automation—scale what works",
+      "Iterate & Measure—continuous improvement based on data"
+    ]
+  },
+  "cta": {
+    "title": "Want to work together?",
+    "description": "Start with a conversation. No sales pitch, just an honest assessment of whether we're the right fit.",
+    "buttonText": "Book a Call"
+  }
+}

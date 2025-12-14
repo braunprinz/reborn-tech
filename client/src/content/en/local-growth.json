@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Local Growth | Maps & Local SEO",
+    "description": "Dominate Google Maps and local search. GBP optimization, citation building, and systematic local pack visibility."
+  },
+  "hero": {
+    "title": "Local Growth",
+    "tagline": "Dominate the map pack. Be found where it matters."
+  },
+  "forWho": {
+    "title": "Is this for you?",
+    "description": "Local Growth is designed for businesses that serve specific geographic areas and depend on local customers finding them.",
+    "points": [
+      "Service-based businesses (plumbers, electricians, contractors)",
+      "Healthcare practices (dentists, clinics, therapists)",
+      "Professional services (lawyers, accountants, consultants)",
+      "Retail with physical locations",
+      "Restaurants and hospitality"
+    ]
+  },
+  "problem": {
+    "title": "The problem",
+    "description": "Your business is invisible in Google Maps. When potential customers search for your services, competitors appear instead—even if you've been operating longer and deliver better work. Your Google Business Profile is incomplete, your citations are inconsistent, and you have no strategy for reviews."
+  },
+  "solution": {
+    "title": "Our approach",
+    "description": "We systematically build your local visibility through three layers: optimizing your Google Business Profile, establishing citation consistency across directories, and implementing ongoing authority building. This isn't a one-time fix—it's infrastructure that compounds."
+  },
+  "outcomes": {
+    "title": "Expected outcomes",
+    "items": [
+      { "metric": "85-95%", "description": "Map grid coverage within target radius" },
+      { "metric": "3-5x", "description": "Increase in GBP actions (calls, directions, website clicks)" },
+      { "metric": "40+", "description": "Consistent citations across authoritative directories" },
+      { "metric": "4.5+", "description": "Average rating with active review management" }
+    ]
+  },
+  "process": {
+    "title": "Our process",
+    "steps": [
+      { "title": "Local Visibility Audit", "description": "Full analysis of your current map presence, competitors, and opportunities" },
+      { "title": "GBP Optimization", "description": "Complete profile rebuild—categories, attributes, services, photos, posts" },
+      { "title": "Citation Building", "description": "Establish consistent NAP across 40+ authoritative directories" },
+      { "title": "Review Strategy", "description": "Implement systems to generate and respond to reviews appropriately" },
+      { "title": "Ongoing Monitoring", "description": "Track rankings, respond to changes, continuously optimize" }
+    ]
+  },
+  "deliverables": {
+    "title": "What you get",
+    "items": [
+      "Full local visibility audit report",
+      "Optimized Google Business Profile",
+      "Citation building across 40+ directories",
+      "Monthly map grid tracking reports",
+      "Review request automation setup",
+      "Competitive monitoring dashboard"
+    ]
+  },
+  "timeline": {
+    "title": "Timeline & expectations",
+    "description": "Initial improvements visible within 4-8 weeks. Significant ranking changes typically take 3-6 months. Local SEO is a long-term investment—we build infrastructure that compounds over time, not quick fixes that fade."
+  },
+  "faq": [
+    {
+      "question": "Do you guarantee #1 rankings?",
+      "answer": "No. Anyone who guarantees specific rankings is lying. We guarantee systematic work and measurable improvement, but rankings depend on factors no one can control."
+    },
+    {
+      "question": "How do you handle multiple locations?",
+      "answer": "Each location gets individual attention—separate GBP optimization, location-specific citations, and distinct tracking. Pricing scales accordingly."
+    },
+    {
+      "question": "What if I have NAP inconsistencies?",
+      "answer": "That's normal and fixable. We audit all existing citations and systematically correct inconsistencies as part of the process."
+    },
+    {
+      "question": "Do you handle review responses?",
+      "answer": "We can, but we recommend you do. Your voice is more authentic. We provide templates and coaching for effective review responses."
+    }
+  ],
+  "cta": {
+    "title": "Ready to own your local market?",
+    "description": "Start with a free map visibility audit. We'll show you exactly where you stand.",
+    "buttonText": "Request Map Audit"
+  }
+}

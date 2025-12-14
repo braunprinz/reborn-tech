@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "Services | Digital Systems Partner",
+    "description": "Four interlocking pillars: Local Growth, Website Creation, AI Automations, and Custom IT Services."
+  },
+  "hero": {
+    "title": "Services",
+    "subtitle": "Four pillars. One interconnected system."
+  },
+  "intro": {
+    "title": "Not separate services—layers of a system",
+    "description": "Most agencies sell isolated services. We build interconnected infrastructure where each layer amplifies the others. Visibility feeds your website. Your website converts traffic. Automation scales operations. Custom IT fills the gaps nothing else can."
+  },
+  "services": [
+    {
+      "id": "local-growth",
+      "title": "Local Growth",
+      "description": "Dominate Google Maps and local search. We optimize your Google Business Profile, build citation authority, and systematically expand your local pack visibility.",
+      "href": "/en/services/local-growth",
+      "features": [
+        "Google Business Profile optimization",
+        "Citation building & management",
+        "Local pack monitoring",
+        "Review strategy",
+        "Competitive analysis"
+      ]
+    },
+    {
+      "id": "website",
+      "title": "Website Creation & Remodeling",
+      "description": "Websites built to convert, not just impress. Modern tech stacks, performance-first architecture, and UX that turns visitors into leads.",
+      "href": "/en/services/website",
+      "features": [
+        "Conversion-focused design",
+        "Core Web Vitals optimization",
+        "Modern tech stacks",
+        "Redesigns & migrations",
+        "Ongoing optimization"
+      ]
+    },
+    {
+      "id": "ai-automations",
+      "title": "AI Automations",
+      "description": "Scale your operations without scaling your team. Workflow automation, system integrations, and AI-assisted processes that save hours every week.",
+      "href": "/en/services/ai-automations",
+      "features": [
+        "Workflow automation",
+        "System integrations",
+        "AI-assisted operations",
+        "Process optimization",
+        "Monitoring & maintenance"
+      ]
+    },
+    {
+      "id": "custom-it",
+      "title": "Custom IT on Demand",
+      "description": "When off-the-shelf doesn't fit. Bespoke engineering, API development, dashboards, data pipelines, and debugging—scoped and delivered.",
+      "href": "/en/services/custom-it",
+      "features": [
+        "Bespoke development",
+        "API development",
+        "Custom dashboards",
+        "Data pipelines",
+        "Technical debugging"
+      ]
+    }
+  ],
+  "cta": {
+    "title": "Not sure which service you need?",
+    "description": "Start with a discovery call. We'll map your situation and recommend the right approach.",
+    "buttonText": "Book Discovery Call"
+  }
+}

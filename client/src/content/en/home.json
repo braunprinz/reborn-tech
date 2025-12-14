@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "title": "Digital Systems Partner | Visibility, Conversion, Automation",
+    "description": "A boutique digital partner building systems that connect visibility, conversion, automation, and custom engineering."
+  },
+  "nav": [
+    { "label": "Services", "href": "/en/services" },
+    { "label": "Work", "href": "/en/work" },
+    { "label": "About", "href": "/en/about" },
+    { "label": "Contact", "href": "/en/contact" }
+  ],
+  "hero": {
+    "headline": "Systems, not campaigns.",
+    "subheadline": "We build interconnected digital infrastructure: local visibility flows into conversion-optimized websites, then automation takes over, with custom engineering filling the gaps.",
+    "ctaPrimary": "Request a Map Audit",
+    "ctaSecondary": "Book Discovery Call"
+  },
+  "systemLoop": {
+    "visibility": "Visibility",
+    "website": "Website",
+    "automation": "Automation",
+    "custom": "Custom IT"
+  },
+  "proof": {
+    "title": "Measured outcomes, not vanity metrics",
+    "metrics": [
+      {
+        "value": "94%",
+        "label": "Map Grid Coverage",
+        "description": "Average local pack visibility after 6 months"
+      },
+      {
+        "value": "2.4x",
+        "label": "Conversion Uplift",
+        "description": "Median improvement in qualified lead generation"
+      },
+      {
+        "value": "18h",
+        "label": "Hours Saved Weekly",
+        "description": "Through workflow automation per client"
+      }
+    ]
+  },
+  "pillars": {
+    "title": "Four pillars. One system.",
+    "subtitle": "Each layer builds on the last. Visibility creates traffic. Websites convert traffic. Automation scales operations. Custom IT solves the rest.",
+    "items": [
+      {
+        "id": "local-growth",
+        "title": "Local Growth",
+        "tagline": "Dominate the map pack.",
+        "outcomes": [
+          "Google Business Profile optimization",
+          "Citation building & consistency",
+          "Local pack monitoring & reporting"
+        ],
+        "href": "/en/services/local-growth"
+      },
+      {
+        "id": "website",
+        "title": "Website Creation",
+        "tagline": "Convert visitors, not just traffic.",
+        "outcomes": [
+          "Conversion-first architecture",
+          "Performance & Core Web Vitals",
+          "Redesigns & migrations"
+        ],
+        "href": "/en/services/website"
+      },
+      {
+        "id": "automation",
+        "title": "AI Automations",
+        "tagline": "Scale without hiring.",
+        "outcomes": [
+          "Workflow automation",
+          "System integrations",
+          "AI-assisted operations"
+        ],
+        "href": "/en/services/ai-automations"
+      },
+      {
+        "id": "custom-it",
+        "title": "Custom IT",
+        "tagline": "When nothing else fits.",
+        "outcomes": [
+          "Bespoke engineering",
+          "API development",
+          "Data pipelines & scripts"
+        ],
+        "href": "/en/services/custom-it"
+      }
+    ]
+  },
+  "mapDemo": {
+    "title": "See your visibility gaps",
+    "subtitle": "Interactive demonstration of local pack coverage analysis",
+    "keywordLabel": "Keyword",
+    "cityLabel": "City",
+    "keywords": ["plumber near me", "emergency plumber", "water heater repair", "drain cleaning"],
+    "cities": ["Munich", "Berlin", "Hamburg", "Frankfurt"],
+    "disclaimer": "Demo visualization. Actual audits use live Google data."
+  },
+  "method": {
+    "title": "How we work",
+    "subtitle": "A systematic approach, not a sales pitch",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Baseline & Audit",
+        "description": "We analyze your current state across all channels",
+        "details": [
+          "Full local visibility audit",
+          "Website performance analysis",
+          "Process & workflow review",
+          "Competitive landscape mapping"
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Build & Fix",
+        "description": "Address foundational issues and build infrastructure",
+        "details": [
+          "GBP optimization & cleanup",
+          "Website fixes or rebuild",
+          "Core automation setup",
+          "Priority quick wins"
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Authority & Automation",
+        "description": "Scale what works, automate what repeats",
+        "details": [
+          "Citation & authority building",
+          "Conversion optimization",
+          "Full workflow automation",
+          "System integrations"
+        ]
+      },
+      {
+        "number": "04",
+        "title": "Iterate & Measure",
+        "description": "Continuous improvement based on data",
+        "details": [
+          "Monthly performance reviews",
+          "A/B testing & optimization",
+          "New opportunity identification",
+          "ROI tracking & reporting"
+        ]
+      }
+    ]
+  },
+  "work": {
+    "title": "How we think",
+    "subtitle": "Case simulations showing our approach to common challenges"
+  },
+  "faq": {
+    "title": "Questions you should ask",
+    "subtitle": "Honest answers to uncomfortable questions",
+    "items": [
+      {
+        "question": "Do you guarantee #1 rankings?",
+        "answer": "No. Anyone who does is lying. We guarantee systematic improvement in visibility and provide transparent reporting. Rankings depend on many factors outside anyone's control—competitor activity, algorithm changes, market dynamics. What we can guarantee is methodical work and measurable progress."
+      },
+      {
+        "question": "How long until I see results?",
+        "answer": "Local visibility improvements typically begin within 4-8 weeks. Meaningful ranking changes take 3-6 months. Automation ROI is often immediate. We set realistic expectations upfront and provide monthly progress reports."
+      },
+      {
+        "question": "What's a realistic budget?",
+        "answer": "Local growth starts around €800/month. Website projects range from €3,000-15,000 depending on complexity. Automation projects are scoped individually. We don't do discount work—you get senior expertise, not junior execution."
+      },
+      {
+        "question": "What access do you need?",
+        "answer": "Google Business Profile ownership, Google Analytics/Search Console access, website admin access. For automation: access to systems being connected. We use secure credential management and can sign NDAs."
+      },
+      {
+        "question": "Can you automate everything?",
+        "answer": "No. Automation works best for repetitive, rule-based tasks. Creative decisions, complex negotiations, and edge cases still need humans. We help identify what should and shouldn't be automated."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to talk systems?",
+    "description": "Start with a free map visibility audit. No sales pitch, just data.",
+    "buttonText": "Request Your Audit"
+  },
+  "footer": {
+    "tagline": "Systems-driven digital growth",
+    "services": "Services",
+    "company": "Company",
+    "legal": "Legal",
+    "copyright": "All rights reserved."
+  }
+}

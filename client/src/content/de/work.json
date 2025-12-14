@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Projekte | Fallbeispiele",
+    "description": "Fallbeispiele, die unseren systematischen Ansatz bei typischen digitalen Herausforderungen demonstrieren."
+  },
+  "hero": {
+    "title": "Wie wir denken",
+    "subtitle": "Fallbeispiele, die unseren Ansatz zeigen"
+  },
+  "intro": {
+    "title": "Keine Testimonials—Denkbeispiele",
+    "description": "Wir veröffentlichen keine Kundenlogos oder fabrizierte Testimonials. Stattdessen zeigen wir detaillierte Simulationen unseres Vorgehens bei typischen Herausforderungen. Diese demonstrieren unsere Methodik ohne die Vertraulichkeit unserer Kunden zu gefährden."
+  },
+  "cases": [
+    {
+      "id": "plumber-local",
+      "title": "Installationsbetrieb: Lokale Sichtbarkeit komplett neu",
+      "industry": "Handwerk",
+      "challenge": "Familiengeführter Installationsbetrieb unsichtbar in Google Maps trotz 15 Jahren Tätigkeit. Verliert Aufträge an neuere Wettbewerber mit besserer Online-Präsenz. GBP unvollständig, keine Verzeichnisstrategie, inkonsistente NAP-Daten.",
+      "approach": "Vollständiges Sichtbarkeits-Audit ergab 23 Verzeichnis-Inkonsistenzen, fehlende Service-Kategorien und keine Bewertungsstrategie. GBP von Grund auf neu aufgebaut, Verzeichnis-Konsistenz über 40+ Portale hergestellt, Bewertungsanfrage-Automatisierung implementiert.",
+      "outcomes": [
+        "94% Maps-Abdeckung innerhalb von 6 Monaten",
+        "312% mehr Anrufe über GBP",
+        "4,8 Durchschnittsbewertung (vorher 3,2)",
+        "Kosten pro Lead um 67% reduziert"
+      ],
+      "disclaimer": "Simuliertes Fallbeispiel basierend auf typischen Mustern. Tatsächliche Kundenergebnisse variieren je nach Marktbedingungen, Wettbewerb und Engagement."
+    },
+    {
+      "id": "clinic-website",
+      "title": "Zahnarztpraxis: Website-Conversion-Redesign",
+      "industry": "Gesundheitswesen",
+      "challenge": "Moderne Praxis mit veralteter Website. Hoher Traffic durch Werbung aber 0,8% Conversion-Rate. Langsame Ladezeiten, verwirrende Navigation, keine Mobile-Optimierung. Verliert potenzielle Patienten in der Website-Phase.",
+      "approach": "Conversion-Audit identifizierte 14 Reibungspunkte. Redesign mit klaren Leistungsseiten, prominenten Buchungs-CTAs, Vertrauenssignalen und Core Web Vitals Optimierung. Terminbuchungsflow mit 3-Schritt-Conversion-Pfad implementiert.",
+      "outcomes": [
+        "3,2% Conversion-Rate (4x Verbesserung)",
+        "Seitenladezeit unter 2 Sekunden",
+        "89% Mobile Core Web Vitals bestanden",
+        "42% weniger Werbeausgaben für gleiche Leads"
+      ],
+      "disclaimer": "Simuliertes Fallbeispiel basierend auf typischen Mustern. Tatsächliche Kundenergebnisse variieren je nach Marktbedingungen, Wettbewerb und Engagement."
+    },
+    {
+      "id": "agency-automation",
+      "title": "Marketing-Agentur: Operations-Automatisierung",
+      "industry": "Professional Services",
+      "challenge": "Wachsende Agentur verbringt 25+ Stunden wöchentlich mit administrativen Aufgaben. Manuelles Reporting, verstreute Kundenkommunikation, kein standardisiertes Onboarding. Team überlastet, fehleranfällige Prozesse.",
+      "approach": "Alle Workflows kartiert und 12 Automatisierungsmöglichkeiten identifiziert. Kunden-Onboarding-Automatisierung, wöchentliche Report-Generierung, Rechnungserstellung und Slack-basierte Projekt-Updates implementiert. CRM, Projektmanagement und Buchhaltung verbunden.",
+      "outcomes": [
+        "18 Stunden pro Woche gespart",
+        "Null manuelle Report-Erstellung",
+        "Kunden-Onboarding-Zeit um 70% reduziert",
+        "Rechnungsfehler eliminiert"
+      ],
+      "disclaimer": "Simuliertes Fallbeispiel basierend auf typischen Mustern. Tatsächliche Kundenergebnisse variieren je nach Marktbedingungen, Wettbewerb und Engagement."
+    }
+  ],
+  "cta": {
+    "title": "Möchten Sie sehen, was wir für Sie tun würden?",
+    "description": "Buchen Sie ein Erstgespräch und wir analysieren Ihre spezifische Situation.",
+    "buttonText": "Erstgespräch buchen"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Custom IT | Maßgeschneiderte Entwicklung on Demand",
+    "description": "Wenn Standardlösungen nicht passen. Maßgeschneiderte Entwicklung, APIs, Dashboards, Daten-Pipelines und technisches Debugging."
+  },
+  "hero": {
+    "title": "Custom IT",
+    "tagline": "Wenn nichts anderes passt."
+  },
+  "forWho": {
+    "title": "Ist das für Sie?",
+    "description": "Custom IT ist für Unternehmen mit spezifischen technischen Anforderungen die Standardlösungen nicht adressieren können.",
+    "points": [
+      "Müssen Systeme verbinden für die keine fertigen Integrationen existieren",
+      "Benötigen Custom Dashboards oder Reporting",
+      "Haben Legacy-Systeme die modernisiert werden müssen",
+      "Stehen vor technischen Problemen die niemand sonst lösen kann"
+    ]
+  },
+  "problem": {
+    "title": "Das Problem",
+    "description": "Sie haben eine spezifische technische Anforderung die nicht in eine Standard-Service-Box passt. Vielleicht brauchen Sie eine Custom API um zwei Systeme zu verbinden. Vielleicht brauchen Sie ein Dashboard das genau zeigt was Sie brauchen. Vielleicht haben Sie ein Legacy-System das Probleme macht. Generische Lösungen passen nicht."
+  },
+  "solution": {
+    "title": "Unser Ansatz",
+    "description": "Wir scopen Custom Work sorgfältig, bauen was Sie brauchen und übergeben ordentlich. Keine aufgeblähten Enterprise-Lösungen. Kein Vendor Lock-in. Sauberer, dokumentierter Code der funktioniert."
+  },
+  "outcomes": {
+    "title": "Was wir bauen",
+    "items": [
+      { "metric": "APIs", "description": "Custom Integrationen zwischen beliebigen Systemen" },
+      { "metric": "Dashboards", "description": "Datenvisualisierung zugeschnitten auf Ihre Bedürfnisse" },
+      { "metric": "Pipelines", "description": "Automatisierte Datenverarbeitung und ETL" },
+      { "metric": "Skripte", "description": "Einmalige oder wiederkehrende Task-Automatisierung" }
+    ]
+  },
+  "process": {
+    "title": "Unser Prozess",
+    "steps": [
+      { "title": "Scoping Call", "description": "Das Problem im Detail verstehen, Erfolgskriterien definieren" },
+      { "title": "Technische Bewertung", "description": "Machbarkeit evaluieren, Aufwand schätzen, Ansatz vorschlagen" },
+      { "title": "Festpreis-Angebot", "description": "Klarer Scope, Zeitplan und Preis—keine Überraschungen" },
+      { "title": "Entwicklung", "description": "Mit regelmäßigen Check-ins und Fortschritts-Updates entwickeln" },
+      { "title": "Übergabe", "description": "Deployen, dokumentieren, schulen und den Übergang unterstützen" }
+    ]
+  },
+  "deliverables": {
+    "title": "Was Sie bekommen",
+    "items": [
+      "Maßgeschneiderte Lösung nach Ihrer Spezifikation",
+      "Vollständiger Quellcode und Dokumentation",
+      "Deployment und Übergabe",
+      "Training für Ihr Team",
+      "Support-Zeitraum inklusive"
+    ]
+  },
+  "timeline": {
+    "title": "Zeitrahmen & Erwartungen",
+    "description": "Variiert nach Projekt. Kleine Skripte: Tage. Custom APIs: Wochen. Komplexe Systeme: Monate. Jedes Projekt bekommt einen klaren Zeitplan bevor wir starten. Keine offenen Engagements."
+  },
+  "faq": [
+    {
+      "question": "Mit welchen Technologien arbeiten Sie?",
+      "answer": "Moderne Web-Technologien: JavaScript/TypeScript, Python, Node.js, React. Cloud Services: AWS, GCP. Datenbanken: PostgreSQL, MongoDB. Wir bewerten Ihren bestehenden Stack und empfehlen entsprechend."
+    },
+    {
+      "question": "Machen Sie Wartung?",
+      "answer": "Wir inkludieren einen Support-Zeitraum bei jedem Projekt. Langfristige Wartung ist als separates Engagement verfügbar oder wir können an Ihr Team übergeben."
+    },
+    {
+      "question": "Können Sie bei etwas Kaputtem helfen?",
+      "answer": "Ja. Wir übernehmen Debugging und technische Rettungsprojekte. Wir bewerten die Situation, geben ehrliche Schätzungen und reparieren was repariert werden muss."
+    },
+    {
+      "question": "Wie bepreisen Sie Custom Work?",
+      "answer": "Festpreise nach Scoping. Wir machen keine offene Stundenabrechnung. Sie kennen die Kosten bevor wir starten."
+    }
+  ],
+  "cta": {
+    "title": "Haben Sie ein technisches Problem zu lösen?",
+    "description": "Buchen Sie ein Scoping-Gespräch um Ihre Anforderungen zu besprechen.",
+    "buttonText": "Scoping-Gespräch buchen"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Work | Case Simulations",
+    "description": "Case simulations demonstrating our systematic approach to common digital challenges."
+  },
+  "hero": {
+    "title": "How We Think",
+    "subtitle": "Case simulations showing our approach to real challenges"
+  },
+  "intro": {
+    "title": "Not testimonials—thinking examples",
+    "description": "We don't publish client logos or fabricated testimonials. Instead, here are detailed simulations showing how we approach common challenges. These demonstrate our methodology without compromising client confidentiality."
+  },
+  "cases": [
+    {
+      "id": "plumber-local",
+      "title": "Plumbing Company: Local Visibility Overhaul",
+      "industry": "Home Services",
+      "challenge": "Family-owned plumbing business invisible in Google Maps despite 15 years of operation. Losing jobs to newer competitors with better online presence. GBP incomplete, no citation strategy, inconsistent NAP data.",
+      "approach": "Full local visibility audit revealed 23 citation inconsistencies, missing service categories, and zero review strategy. Rebuilt GBP from ground up, established citation consistency across 40+ directories, implemented review request automation.",
+      "outcomes": [
+        "94% map grid coverage within 6 months",
+        "312% increase in GBP calls",
+        "4.8 average rating (up from 3.2)",
+        "Reduced cost per lead by 67%"
+      ],
+      "disclaimer": "Simulated case based on common patterns. Actual client results vary based on market conditions, competition, and engagement level."
+    },
+    {
+      "id": "clinic-website",
+      "title": "Dental Clinic: Website Conversion Redesign",
+      "industry": "Healthcare",
+      "challenge": "Modern clinic with outdated website. High traffic from ads but 0.8% conversion rate. Slow load times, confusing navigation, no mobile optimization. Losing potential patients at the website stage.",
+      "approach": "Conversion audit identified 14 friction points. Redesigned with clear service pages, prominent booking CTAs, trust signals, and Core Web Vitals optimization. Implemented appointment booking flow with 3-step conversion path.",
+      "outcomes": [
+        "3.2% conversion rate (4x improvement)",
+        "Page load under 2 seconds",
+        "89% mobile Core Web Vitals pass",
+        "42% reduction in ad spend for same leads"
+      ],
+      "disclaimer": "Simulated case based on common patterns. Actual client results vary based on market conditions, competition, and engagement level."
+    },
+    {
+      "id": "agency-automation",
+      "title": "Marketing Agency: Operations Automation",
+      "industry": "Professional Services",
+      "challenge": "Growing agency spending 25+ hours weekly on administrative tasks. Manual reporting, scattered client communication, no standardized onboarding. Team stretched thin, error-prone processes.",
+      "approach": "Mapped all workflows and identified 12 automation opportunities. Implemented client onboarding automation, weekly report generation, invoice creation, and Slack-based project updates. Connected CRM, project management, and accounting systems.",
+      "outcomes": [
+        "18 hours saved per week",
+        "Zero manual report creation",
+        "Client onboarding time reduced 70%",
+        "Invoice errors eliminated"
+      ],
+      "disclaimer": "Simulated case based on common patterns. Actual client results vary based on market conditions, competition, and engagement level."
+    }
+  ],
+  "cta": {
+    "title": "Want to see what we'd do for you?",
+    "description": "Book a discovery call and we'll analyze your specific situation.",
+    "buttonText": "Book Discovery Call"
+  }
+}

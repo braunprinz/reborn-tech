@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "title": "Website-Erstellung | Conversion-First Entwicklung",
+    "description": "Websites die konvertieren. Moderne Tech-Stacks, Performance-Optimierung und UX die Besucher in Leads verwandelt."
+  },
+  "hero": {
+    "title": "Website-Erstellung",
+    "tagline": "Besucher konvertieren, nicht nur Traffic."
+  },
+  "forWho": {
+    "title": "Ist das für Sie?",
+    "description": "Website-Erstellung ist für Unternehmen, deren Website tatsächlich funktionieren muss—Leads generieren, nicht nur gut aussehen.",
+    "points": [
+      "Unternehmen mit veralteten, langsamen Websites die Leads verlieren",
+      "Firmen mit Traffic aber schlechten Conversion-Raten",
+      "Wachsende Unternehmen die professionelle Online-Präsenz brauchen",
+      "Alle die genug haben von Agenturen die Stil über Substanz liefern"
+    ]
+  },
+  "problem": {
+    "title": "Das Problem",
+    "description": "Ihre Website sieht veraltet aus, lädt langsam und konvertiert nicht. Sie bezahlen für Traffic der abspringt. Das Design wurde für Ästhetik gebaut, nicht für Performance. Mobile Experience ist ein Nachgedanke. Es gibt keinen klaren Conversion-Pfad."
+  },
+  "solution": {
+    "title": "Unser Ansatz",
+    "description": "Wir bauen Conversion-First Websites auf modernen Tech-Stacks. Jede Seite hat einen Zweck. Jedes Element dient dem Conversion-Pfad. Performance ist nicht verhandelbar. Das Ergebnis: Websites die schnell laden, gut ranken und Besucher in Leads verwandeln."
+  },
+  "outcomes": {
+    "title": "Erwartete Ergebnisse",
+    "items": [
+      { "metric": "<2s", "description": "Seitenladezeit auf Mobile" },
+      { "metric": "90+", "description": "Lighthouse Performance Score" },
+      { "metric": "2-4x", "description": "Conversion-Rate Verbesserung" },
+      { "metric": "100%", "description": "Core Web Vitals Bestehensquote" }
+    ]
+  },
+  "process": {
+    "title": "Unser Prozess",
+    "steps": [
+      { "title": "Conversion Audit", "description": "Aktuelle Site analysieren, Reibungspunkte identifizieren, Conversion-Pfade kartieren" },
+      { "title": "UX & Struktur", "description": "Informationsarchitektur und User Flows designen die konvertieren" },
+      { "title": "Design & Prototyp", "description": "Visuelles Design erstellen das Funktion dient, nicht nur Form" },
+      { "title": "Entwicklung", "description": "Auf modernem, schnellem Tech-Stack mit SEO-Fundamenten bauen" },
+      { "title": "Launch & Optimierung", "description": "Deployen, überwachen und kontinuierlich basierend auf Daten verbessern" }
+    ]
+  },
+  "deliverables": {
+    "title": "Was Sie bekommen",
+    "items": [
+      "Conversion-optimiertes Website-Design",
+      "Moderner, schnell ladender Tech-Stack",
+      "Mobile-First responsives Design",
+      "SEO technische Fundamente",
+      "Analytics und Conversion-Tracking Setup",
+      "Training und Übergabe-Dokumentation"
+    ]
+  },
+  "timeline": {
+    "title": "Zeitrahmen & Erwartungen",
+    "description": "Einfache Sites: 4-6 Wochen. Mittlere Komplexität: 6-10 Wochen. Komplexe Sites: 10-16 Wochen. Wir scopen sorgfältig vorab—keine Überraschungen. Sie haben einen klaren Zeitplan bevor wir starten."
+  },
+  "faq": [
+    {
+      "question": "Welchen Tech-Stack nutzen Sie?",
+      "answer": "Das hängt vom Projekt ab. Wir bevorzugen moderne Frameworks (Next.js, Astro) für Performance und Wartbarkeit. Für einfachere Sites kann WordPress funktionieren. Wir empfehlen basierend auf Ihren spezifischen Anforderungen."
+    },
+    {
+      "question": "Können Sie meine bestehende Site redesignen?",
+      "answer": "Ja. Redesigns sind oft effizienter als Neubauten. Wir bewerten was gerettet werden kann und was ersetzt werden muss."
+    },
+    {
+      "question": "Was ist mit laufender Wartung?",
+      "answer": "Wir bieten Wartungspakete an oder können an Ihr Team übergeben. In jedem Fall bauen wir Sites die wartbar und gut dokumentiert sind."
+    },
+    {
+      "question": "Machen Sie E-Commerce?",
+      "answer": "Ja, aber selektiv. E-Commerce hat einzigartige Komplexität. Wir bewerten die Passung bevor wir committen."
+    }
+  ],
+  "cta": {
+    "title": "Bereit für eine Website die konvertiert?",
+    "description": "Buchen Sie ein Gespräch um Ihre Website-Anforderungen zu besprechen.",
+    "buttonText": "Erstgespräch buchen"
+  }
+}

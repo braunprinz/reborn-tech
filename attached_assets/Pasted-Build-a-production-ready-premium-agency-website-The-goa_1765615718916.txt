@@ -1,0 +1,344 @@
+Build a production-ready, premium agency website.
+The goal is credibility, conversion, and clarity, not feature richness.
+
+1️⃣ ARCHITEKTUR – FIX UND BEGRENZT
+Aufgabe
+
+Use Next.js (App Router) + TypeScript
+
+Use static generation (SSG) wherever possible
+
+No SPA-only routing
+
+No backend logic except a minimal contact form endpoint
+
+Explizit VERBOTEN
+
+❌ No Express server
+
+❌ No Vite SPA
+
+❌ No databases (Postgres, SQLite, Drizzle, Prisma, etc.)
+
+❌ No admin panel
+
+❌ No authentication
+
+❌ No dashboards
+
+❌ No user accounts
+
+2️⃣ SPRACHEN & ROUTING (SEHR WICHTIG)
+Aufgabe
+
+Implement explicit language routing:
+
+/de/...
+
+/en/...
+
+Default entry point: /de
+
+Language switcher:
+
+manual only
+
+persists choice via cookie or localStorage
+
+no auto-detection
+
+no Accept-Language logic
+
+Explizit VERBOTEN
+
+❌ No auto redirect based on browser language
+
+❌ No fallback language
+
+❌ No shared translation keys
+
+3️⃣ CONTENT-LOGIK (HIER MACHT REPLIT GERNE FEHLER)
+Aufgabe
+
+Content is loaded from separate JSON files per language
+
+German and English content must be independent
+
+Same components, different content files
+
+Pflicht-Struktur
+
+src/content/
+  de/
+    home.json
+    services.json
+    local-growth.json
+    website.json
+    ai-automations.json
+    custom-it.json
+    work.json
+    about.json
+    faq.json
+  en/
+    home.json
+    services.json
+    local-growth.json
+    website.json
+    ai-automations.json
+    custom-it.json
+    work.json
+    about.json
+    faq.json
+
+Explizit VERBOTEN
+
+❌ No translation libraries
+
+❌ No shared content files
+
+❌ No copying DE text into EN and “rephrasing”
+
+4️⃣ SEITEN (NUR DIESE – NICHT MEHR)
+Aufgabe: Diese Seiten bauen
+
+Home
+
+Services (Overview)
+
+Local Growth
+
+Website Creation & Remodeling
+
+AI Automations
+
+Custom IT on Demand
+
+Work (Case Studies / Simulations)
+
+About
+
+Contact
+
+Legal (DE only):
+
+Impressum
+
+Datenschutz
+
+Explizit VERBOTEN
+
+❌ No blog
+
+❌ No admin pages
+
+❌ No dashboard pages
+
+❌ No login/register pages
+
+5️⃣ UI / UX – QUALITÄTSVORGABEN
+Aufgabe
+
+Premium, calm, technical design
+
+No template-looking layouts
+
+Large editorial sections
+
+Clear hierarchy
+
+Strong typography
+
+Subtle animations only (Framer Motion)
+
+Explizit VERBOTEN
+
+❌ No stock photos
+
+❌ No carousel sliders
+
+❌ No “marketing hype” copy
+
+❌ No unnecessary animations
+
+❌ No loading spinners on main content
+
+6️⃣ HOMEPAGE – PFLICHT-BLOCKS
+Aufgabe
+
+Implement these blocks as separate reusable components:
+
+HeroSystemLoop
+
+ProofStrip (metrics, placeholders ok)
+
+PillarsGrid (4 services)
+
+MapGridDemo (frontend demo only)
+
+MethodTimeline
+
+WorkShowcase
+
+FAQBlock
+
+CTASection
+
+Explizit VERBOTEN
+
+❌ No random sections
+
+❌ No testimonials section (unless explicitly added later)
+
+7️⃣ SERVICE-SEITEN – STRIKTE STRUKTUR
+Aufgabe
+
+Each service page must include:
+
+Who it’s for
+
+Problem it solves
+
+Outcomes (measurable)
+
+Step-by-step process
+
+Deliverables
+
+Timeline & expectations
+
+Service-specific FAQ
+
+CTA
+
+Explizit VERBOTEN
+
+❌ No vague marketing copy
+
+❌ No guarantees
+
+❌ No “we are experts” fluff
+
+8️⃣ CONTACT PAGE – QUALIFYING, NOT SALESY
+Aufgabe
+
+Contact form fields:
+
+Business name
+
+Website
+
+GBP link (optional)
+
+Country
+
+City
+
+Primary need (multi-select)
+
+Budget range
+
+Timeline
+
+Message
+
+Use React Hook Form + Zod
+
+API route placeholder only (no DB)
+
+Explizit VERBOTEN
+
+❌ No CRM integration
+
+❌ No database
+
+❌ No newsletter logic
+
+9️⃣ SEO – MINDESTSTANDARD (AGENCY-GRADE)
+Aufgabe
+
+Separate meta title & description per page & locale
+
+Canonical URLs
+
+hreflang (de-DE, en-GB or en-US)
+
+OpenGraph tags
+
+Sitemap.xml
+
+robots.txt
+
+Schema:
+
+Organization
+
+Service
+
+FAQPage
+
+Breadcrumb
+
+Explizit VERBOTEN
+
+❌ No generic metadata
+
+❌ No missing canonical
+
+❌ No mixed-language SEO signals
+
+🔟 PERFORMANCE & QUALITÄT
+Aufgabe
+
+Lighthouse ≥ 90 mobile
+
+Fonts:
+
+max 2 font families
+
+only required weights
+
+Use next/image
+
+No unnecessary JS
+
+Explizit VERBOTEN
+
+❌ Loading 10+ fonts
+
+❌ Heavy icon libraries
+
+❌ Unused dependencies
+
+1️⃣1️⃣ PROJEKTSTRUKTUR (PFLICHT)
+src/
+  app/[locale]/(site)/
+  components/
+    blocks/
+    ui/
+  content/
+    de/
+    en/
+  lib/
+    seo/
+    i18n/
+  theme/
+
+1️⃣2️⃣ ABNAHMEKRITERIEN (SEHR WICHTIG)
+
+Replit must confirm:
+
+No admin panel exists
+
+No database exists
+
+No authentication exists
+
+No unused routes exist
+
+No unused dependencies exist
+
+German and English content differ meaningfully
+
+Default language is German
+
+Language switch works as specified

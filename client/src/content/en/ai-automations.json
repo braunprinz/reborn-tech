@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "title": "AI Automations | Workflow & System Integration",
+    "description": "Scale operations without scaling headcount. Workflow automation, system integrations, and AI-assisted processes."
+  },
+  "hero": {
+    "title": "AI Automations",
+    "tagline": "Scale without hiring."
+  },
+  "forWho": {
+    "title": "Is this for you?",
+    "description": "AI Automations is for businesses drowning in manual, repetitive work that could be systematized.",
+    "points": [
+      "Teams spending hours on data entry and transfers",
+      "Businesses with disconnected systems and tools",
+      "Operations doing the same tasks repeatedly",
+      "Anyone losing time to tasks a machine could handle"
+    ]
+  },
+  "problem": {
+    "title": "The problem",
+    "description": "Your team spends hours every week on repetitive tasks. Data lives in disconnected systems that don't talk to each other. Manual processes are slow, error-prone, and don't scale. You're hiring to handle volume, not complexity."
+  },
+  "solution": {
+    "title": "Our approach",
+    "description": "We map your workflows, identify automation opportunities, and build connected systems. Repetitive tasks get automated. Data flows between systems automatically. AI assists where appropriate. Your team focuses on work that requires human judgment."
+  },
+  "outcomes": {
+    "title": "Expected outcomes",
+    "items": [
+      { "metric": "10-30h", "description": "Hours saved per week per automated workflow" },
+      { "metric": "Zero", "description": "Manual data entry for automated processes" },
+      { "metric": "Minutes", "description": "Response time for previously slow processes" },
+      { "metric": "99%+", "description": "Accuracy for rule-based automated tasks" }
+    ]
+  },
+  "process": {
+    "title": "Our process",
+    "steps": [
+      { "title": "Workflow Mapping", "description": "Document current processes, identify bottlenecks and automation candidates" },
+      { "title": "Opportunity Analysis", "description": "Prioritize automations by impact and feasibility" },
+      { "title": "System Design", "description": "Architect the automation solution and integrations" },
+      { "title": "Build & Test", "description": "Develop automations with proper error handling and monitoring" },
+      { "title": "Deploy & Monitor", "description": "Launch with oversight, refine based on real usage" }
+    ]
+  },
+  "deliverables": {
+    "title": "What you get",
+    "items": [
+      "Workflow automation implementation",
+      "System integrations between your tools",
+      "AI-assisted process components",
+      "Monitoring and alerting setup",
+      "Documentation and training",
+      "Ongoing optimization support"
+    ]
+  },
+  "timeline": {
+    "title": "Timeline & expectations",
+    "description": "Simple automations: 1-2 weeks. Complex workflows: 4-8 weeks. Multi-system integrations: 6-12 weeks. ROI is often immediate—automations pay for themselves quickly through time savings."
+  },
+  "faq": [
+    {
+      "question": "What can and can't be automated?",
+      "answer": "Rule-based, repetitive tasks automate well. Creative decisions, complex negotiations, and edge cases need humans. We help identify what should and shouldn't be automated."
+    },
+    {
+      "question": "What tools do you work with?",
+      "answer": "Most modern business tools have APIs. Common: Zapier, Make, n8n, custom APIs, Slack, CRMs, email systems, spreadsheets, databases. We assess your specific stack."
+    },
+    {
+      "question": "What if something breaks?",
+      "answer": "All automations include error handling and alerting. You'll know immediately if something fails. We build for reliability, not just function."
+    },
+    {
+      "question": "How do you handle AI?",
+      "answer": "AI is a tool, not a magic solution. We use it where appropriate—text generation, classification, summarization—with proper oversight and fallbacks."
+    }
+  ],
+  "cta": {
+    "title": "Ready to automate?",
+    "description": "Book a call to discuss your automation opportunities.",
+    "buttonText": "Book Discovery Call"
+  }
+}

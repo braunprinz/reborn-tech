@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "title": "Website Creation | Conversion-First Development",
+    "description": "Websites built to convert. Modern tech stacks, performance optimization, and UX that turns visitors into leads."
+  },
+  "hero": {
+    "title": "Website Creation",
+    "tagline": "Convert visitors, not just traffic."
+  },
+  "forWho": {
+    "title": "Is this for you?",
+    "description": "Website Creation is for businesses that need their website to actually work—generating leads, not just looking pretty.",
+    "points": [
+      "Businesses with outdated, slow websites losing leads",
+      "Companies with traffic but poor conversion rates",
+      "Growing businesses needing professional online presence",
+      "Anyone tired of agencies delivering style over substance"
+    ]
+  },
+  "problem": {
+    "title": "The problem",
+    "description": "Your website looks dated, loads slowly, and doesn't convert. You're paying for traffic that bounces. The design was built for aesthetics, not performance. Mobile experience is an afterthought. There's no clear conversion path."
+  },
+  "solution": {
+    "title": "Our approach",
+    "description": "We build conversion-first websites on modern tech stacks. Every page has a purpose. Every element serves the conversion path. Performance is non-negotiable. The result: websites that load fast, rank well, and turn visitors into leads."
+  },
+  "outcomes": {
+    "title": "Expected outcomes",
+    "items": [
+      { "metric": "<2s", "description": "Page load time on mobile" },
+      { "metric": "90+", "description": "Lighthouse performance score" },
+      { "metric": "2-4x", "description": "Conversion rate improvement" },
+      { "metric": "100%", "description": "Core Web Vitals pass rate" }
+    ]
+  },
+  "process": {
+    "title": "Our process",
+    "steps": [
+      { "title": "Conversion Audit", "description": "Analyze current site, identify friction points, map conversion paths" },
+      { "title": "UX & Structure", "description": "Design information architecture and user flows that convert" },
+      { "title": "Design & Prototype", "description": "Create visual design that serves function, not just form" },
+      { "title": "Development", "description": "Build on modern, fast tech stack with SEO foundations" },
+      { "title": "Launch & Optimize", "description": "Deploy, monitor, and continuously improve based on data" }
+    ]
+  },
+  "deliverables": {
+    "title": "What you get",
+    "items": [
+      "Conversion-optimized website design",
+      "Modern, fast-loading tech stack",
+      "Mobile-first responsive design",
+      "SEO technical foundations",
+      "Analytics and conversion tracking setup",
+      "Training and handover documentation"
+    ]
+  },
+  "timeline": {
+    "title": "Timeline & expectations",
+    "description": "Simple sites: 4-6 weeks. Medium complexity: 6-10 weeks. Complex sites: 10-16 weeks. We scope carefully upfront—no surprises. You'll have a clear timeline before we start."
+  },
+  "faq": [
+    {
+      "question": "What tech stack do you use?",
+      "answer": "It depends on the project. We favor modern frameworks (Next.js, Astro) for performance and maintainability. For simpler sites, WordPress can work. We recommend based on your specific needs."
+    },
+    {
+      "question": "Can you redesign my existing site?",
+      "answer": "Yes. Redesigns are often more efficient than rebuilds. We assess what can be salvaged and what needs replacement."
+    },
+    {
+      "question": "What about ongoing maintenance?",
+      "answer": "We offer maintenance packages or can hand off to your team. Either way, we build sites that are maintainable and well-documented."
+    },
+    {
+      "question": "Do you do e-commerce?",
+      "answer": "Yes, but selectively. E-commerce has unique complexity. We assess fit before committing."
+    }
+  ],
+  "cta": {
+    "title": "Ready for a website that converts?",
+    "description": "Book a call to discuss your website needs.",
+    "buttonText": "Book Discovery Call"
+  }
+}

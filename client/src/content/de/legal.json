@@ -1,0 +1,31 @@
+{
+  "impressum": {
+    "title": "Impressum",
+    "content": "Angaben gemäß § 5 TMG\n\n[Ihr Unternehmensname]\n[Straße und Hausnummer]\n[PLZ und Ort]\nDeutschland\n\nVertreten durch:\n[Name des Vertretungsberechtigten]\n\nKontakt:\nTelefon: [Telefonnummer]\nE-Mail: [E-Mail-Adresse]\n\nRegistereintrag:\nEintragung im Handelsregister.\nRegistergericht: [Amtsgericht]\nRegisternummer: [HRB-Nummer]\n\nUmsatzsteuer-ID:\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:\n[USt-IdNr.]\n\nVerantwortlich für den Inhalt nach § 55 Abs. 2 RStV:\n[Name]\n[Adresse]\n\nStreitschlichtung:\nDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/\nUnsere E-Mail-Adresse finden Sie oben im Impressum.\n\nWir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
+  },
+  "datenschutz": {
+    "title": "Datenschutzerklärung",
+    "sections": [
+      {
+        "title": "1. Datenschutz auf einen Blick",
+        "content": "Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können."
+      },
+      {
+        "title": "2. Allgemeine Hinweise und Pflichtinformationen",
+        "content": "Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung."
+      },
+      {
+        "title": "3. Datenerfassung auf dieser Website",
+        "content": "Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen."
+      },
+      {
+        "title": "4. Kontaktformular",
+        "content": "Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter."
+      },
+      {
+        "title": "5. Ihre Rechte",
+        "content": "Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen."
+      }
+    ]
+  }
+}

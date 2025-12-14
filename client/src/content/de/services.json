@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "Leistungen | Digitaler Systempartner",
+    "description": "Vier verzahnte Säulen: Lokales Wachstum, Website-Erstellung, KI-Automatisierung und maßgeschneiderte IT-Services."
+  },
+  "hero": {
+    "title": "Leistungen",
+    "subtitle": "Vier Säulen. Ein vernetztes System."
+  },
+  "intro": {
+    "title": "Keine isolierten Dienstleistungen—Ebenen eines Systems",
+    "description": "Die meisten Agenturen verkaufen isolierte Services. Wir bauen vernetzte Infrastruktur, bei der jede Ebene die anderen verstärkt. Sichtbarkeit speist Ihre Website. Ihre Website konvertiert Traffic. Automatisierung skaliert Prozesse. Custom IT füllt die Lücken, die nichts anderes füllen kann."
+  },
+  "services": [
+    {
+      "id": "local-growth",
+      "title": "Lokales Wachstum",
+      "description": "Dominieren Sie Google Maps und die lokale Suche. Wir optimieren Ihr Google Business Profile, bauen Branchenverzeichnis-Autorität auf und erweitern systematisch Ihre Local-Pack-Sichtbarkeit.",
+      "href": "/de/services/local-growth",
+      "features": [
+        "Google Business Profile Optimierung",
+        "Branchenverzeichnis-Aufbau & -Pflege",
+        "Local-Pack-Monitoring",
+        "Bewertungsstrategie",
+        "Wettbewerbsanalyse"
+      ]
+    },
+    {
+      "id": "website",
+      "title": "Website-Erstellung & Remodeling",
+      "description": "Websites, die konvertieren—nicht nur beeindrucken. Moderne Technologie-Stacks, Performance-First-Architektur und UX, die Besucher in Leads verwandelt.",
+      "href": "/de/services/website",
+      "features": [
+        "Conversion-fokussiertes Design",
+        "Core Web Vitals Optimierung",
+        "Moderne Tech-Stacks",
+        "Redesigns & Migrationen",
+        "Laufende Optimierung"
+      ]
+    },
+    {
+      "id": "ai-automations",
+      "title": "KI-Automatisierung",
+      "description": "Skalieren Sie Ihre Prozesse ohne Ihr Team zu vergrößern. Workflow-Automatisierung, System-Integrationen und KI-gestützte Prozesse, die jede Woche Stunden sparen.",
+      "href": "/de/services/ai-automations",
+      "features": [
+        "Workflow-Automatisierung",
+        "System-Integrationen",
+        "KI-gestützte Prozesse",
+        "Prozessoptimierung",
+        "Monitoring & Wartung"
+      ]
+    },
+    {
+      "id": "custom-it",
+      "title": "Custom IT on Demand",
+      "description": "Wenn Standardlösungen nicht passen. Maßgeschneiderte Entwicklung, API-Entwicklung, Dashboards, Daten-Pipelines und Debugging—sauber definiert und geliefert.",
+      "href": "/de/services/custom-it",
+      "features": [
+        "Maßgeschneiderte Entwicklung",
+        "API-Entwicklung",
+        "Custom Dashboards",
+        "Daten-Pipelines",
+        "Technisches Debugging"
+      ]
+    }
+  ],
+  "cta": {
+    "title": "Nicht sicher, welchen Service Sie brauchen?",
+    "description": "Starten Sie mit einem Erstgespräch. Wir analysieren Ihre Situation und empfehlen den richtigen Ansatz.",
+    "buttonText": "Erstgespräch buchen"
+  }
+}

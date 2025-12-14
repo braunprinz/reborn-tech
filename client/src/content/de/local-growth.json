@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Lokales Wachstum | Maps & Local SEO",
+    "description": "Dominieren Sie Google Maps und die lokale Suche. GBP-Optimierung, Branchenverzeichnis-Aufbau und systematische Local-Pack-Sichtbarkeit."
+  },
+  "hero": {
+    "title": "Lokales Wachstum",
+    "tagline": "Dominiere das Map Pack. Sei gefunden wo es zählt."
+  },
+  "forWho": {
+    "title": "Ist das für Sie?",
+    "description": "Lokales Wachstum ist für Unternehmen konzipiert, die bestimmte geografische Gebiete bedienen und von lokalen Kunden abhängig sind, die sie finden.",
+    "points": [
+      "Dienstleistungsunternehmen (Installateure, Elektriker, Handwerker)",
+      "Gesundheitspraxen (Zahnärzte, Kliniken, Therapeuten)",
+      "Freiberufler (Anwälte, Steuerberater, Berater)",
+      "Einzelhandel mit Ladengeschäft",
+      "Gastronomie und Hotellerie"
+    ]
+  },
+  "problem": {
+    "title": "Das Problem",
+    "description": "Ihr Unternehmen ist in Google Maps unsichtbar. Wenn potenzielle Kunden nach Ihren Services suchen, erscheinen Wettbewerber—auch wenn Sie länger tätig sind und bessere Arbeit liefern. Ihr Google Business Profile ist unvollständig, Ihre Verzeichniseinträge inkonsistent, und Sie haben keine Bewertungsstrategie."
+  },
+  "solution": {
+    "title": "Unser Ansatz",
+    "description": "Wir bauen Ihre lokale Sichtbarkeit systematisch über drei Ebenen auf: Optimierung Ihres Google Business Profiles, Etablierung von Verzeichnis-Konsistenz und Implementierung des laufenden Autoritätsaufbaus. Das ist keine einmalige Reparatur—es ist Infrastruktur, die sich vervielfacht."
+  },
+  "outcomes": {
+    "title": "Erwartete Ergebnisse",
+    "items": [
+      { "metric": "85-95%", "description": "Maps-Abdeckung im Zielradius" },
+      { "metric": "3-5x", "description": "Steigerung der GBP-Aktionen (Anrufe, Routen, Website-Klicks)" },
+      { "metric": "40+", "description": "Konsistente Einträge in autoritativen Verzeichnissen" },
+      { "metric": "4,5+", "description": "Durchschnittsbewertung mit aktivem Review-Management" }
+    ]
+  },
+  "process": {
+    "title": "Unser Prozess",
+    "steps": [
+      { "title": "Local Visibility Audit", "description": "Vollständige Analyse Ihrer aktuellen Maps-Präsenz, Wettbewerber und Chancen" },
+      { "title": "GBP-Optimierung", "description": "Kompletter Profil-Neuaufbau—Kategorien, Attribute, Services, Fotos, Beiträge" },
+      { "title": "Verzeichnis-Aufbau", "description": "Konsistente NAP über 40+ autoritative Verzeichnisse etablieren" },
+      { "title": "Bewertungsstrategie", "description": "Systeme implementieren, um Bewertungen zu generieren und angemessen zu antworten" },
+      { "title": "Laufendes Monitoring", "description": "Rankings tracken, auf Änderungen reagieren, kontinuierlich optimieren" }
+    ]
+  },
+  "deliverables": {
+    "title": "Was Sie bekommen",
+    "items": [
+      "Vollständiger Local-Visibility-Audit-Report",
+      "Optimiertes Google Business Profile",
+      "Verzeichnis-Aufbau über 40+ Portale",
+      "Monatliche Maps-Grid-Tracking-Reports",
+      "Bewertungsanfrage-Automatisierung Setup",
+      "Wettbewerbs-Monitoring Dashboard"
+    ]
+  },
+  "timeline": {
+    "title": "Zeitrahmen & Erwartungen",
+    "description": "Erste Verbesserungen sichtbar innerhalb von 4-8 Wochen. Bedeutende Ranking-Änderungen brauchen typischerweise 3-6 Monate. Local SEO ist eine langfristige Investition—wir bauen Infrastruktur, die sich über Zeit vervielfacht, keine Quick Fixes, die verblassen."
+  },
+  "faq": [
+    {
+      "question": "Garantieren Sie Platz 1 Rankings?",
+      "answer": "Nein. Wer bestimmte Rankings garantiert, lügt. Wir garantieren systematische Arbeit und messbare Verbesserung, aber Rankings hängen von Faktoren ab, die niemand kontrolliert."
+    },
+    {
+      "question": "Wie gehen Sie mit mehreren Standorten um?",
+      "answer": "Jeder Standort bekommt individuelle Aufmerksamkeit—separate GBP-Optimierung, standortspezifische Einträge und eigenes Tracking. Die Preise skalieren entsprechend."
+    },
+    {
+      "question": "Was wenn ich NAP-Inkonsistenzen habe?",
+      "answer": "Das ist normal und behebbar. Wir auditieren alle bestehenden Einträge und korrigieren Inkonsistenzen systematisch als Teil des Prozesses."
+    },
+    {
+      "question": "Beantworten Sie Bewertungen?",
+      "answer": "Können wir, aber wir empfehlen, dass Sie es tun. Ihre Stimme ist authentischer. Wir liefern Vorlagen und Coaching für effektive Bewertungsantworten."
+    }
+  ],
+  "cta": {
+    "title": "Bereit Ihren lokalen Markt zu dominieren?",
+    "description": "Starten Sie mit einem kostenlosen Maps-Sichtbarkeits-Audit. Wir zeigen Ihnen genau wo Sie stehen.",
+    "buttonText": "Maps-Audit anfragen"
+  }
+}

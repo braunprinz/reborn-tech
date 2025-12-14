@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "title": "KI-Automatisierung | Workflow & System-Integration",
+    "description": "Skalieren Sie ohne einzustellen. Workflow-Automatisierung, System-Integrationen und KI-gestützte Prozesse."
+  },
+  "hero": {
+    "title": "KI-Automatisierung",
+    "tagline": "Skalieren ohne einzustellen."
+  },
+  "forWho": {
+    "title": "Ist das für Sie?",
+    "description": "KI-Automatisierung ist für Unternehmen die in manueller, wiederholender Arbeit ertrinken die systematisiert werden könnte.",
+    "points": [
+      "Teams die Stunden mit Dateneingabe und -transfers verbringen",
+      "Unternehmen mit unverbundenen Systemen und Tools",
+      "Prozesse die immer wieder die gleichen Aufgaben ausführen",
+      "Alle die Zeit an Aufgaben verlieren die eine Maschine erledigen könnte"
+    ]
+  },
+  "problem": {
+    "title": "Das Problem",
+    "description": "Ihr Team verbringt jede Woche Stunden mit wiederholenden Aufgaben. Daten leben in unverbundenen Systemen die nicht miteinander kommunizieren. Manuelle Prozesse sind langsam, fehleranfällig und skalieren nicht. Sie stellen ein um Volumen zu bewältigen, nicht Komplexität."
+  },
+  "solution": {
+    "title": "Unser Ansatz",
+    "description": "Wir kartieren Ihre Workflows, identifizieren Automatisierungsmöglichkeiten und bauen verbundene Systeme. Wiederholende Aufgaben werden automatisiert. Daten fließen automatisch zwischen Systemen. KI assistiert wo angemessen. Ihr Team fokussiert sich auf Arbeit die menschliches Urteilsvermögen braucht."
+  },
+  "outcomes": {
+    "title": "Erwartete Ergebnisse",
+    "items": [
+      { "metric": "10-30h", "description": "Stunden gespart pro Woche pro automatisiertem Workflow" },
+      { "metric": "Null", "description": "Manuelle Dateneingabe für automatisierte Prozesse" },
+      { "metric": "Minuten", "description": "Reaktionszeit für zuvor langsame Prozesse" },
+      { "metric": "99%+", "description": "Genauigkeit für regelbasierte automatisierte Aufgaben" }
+    ]
+  },
+  "process": {
+    "title": "Unser Prozess",
+    "steps": [
+      { "title": "Workflow-Mapping", "description": "Aktuelle Prozesse dokumentieren, Engpässe und Automatisierungskandidaten identifizieren" },
+      { "title": "Chancen-Analyse", "description": "Automatisierungen nach Impact und Machbarkeit priorisieren" },
+      { "title": "System-Design", "description": "Die Automatisierungslösung und Integrationen architektieren" },
+      { "title": "Bauen & Testen", "description": "Automatisierungen mit ordentlicher Fehlerbehandlung und Monitoring entwickeln" },
+      { "title": "Deploy & Monitor", "description": "Mit Überwachung launchen, basierend auf echtem Gebrauch verfeinern" }
+    ]
+  },
+  "deliverables": {
+    "title": "Was Sie bekommen",
+    "items": [
+      "Workflow-Automatisierung Implementation",
+      "System-Integrationen zwischen Ihren Tools",
+      "KI-gestützte Prozess-Komponenten",
+      "Monitoring und Alerting Setup",
+      "Dokumentation und Training",
+      "Laufende Optimierungsunterstützung"
+    ]
+  },
+  "timeline": {
+    "title": "Zeitrahmen & Erwartungen",
+    "description": "Einfache Automatisierungen: 1-2 Wochen. Komplexe Workflows: 4-8 Wochen. Multi-System-Integrationen: 6-12 Wochen. ROI ist oft sofort—Automatisierungen zahlen sich schnell durch Zeitersparnis aus."
+  },
+  "faq": [
+    {
+      "question": "Was kann und kann nicht automatisiert werden?",
+      "answer": "Regelbasierte, wiederholende Aufgaben automatisieren gut. Kreative Entscheidungen, komplexe Verhandlungen und Sonderfälle brauchen Menschen. Wir helfen zu identifizieren was automatisiert werden sollte und was nicht."
+    },
+    {
+      "question": "Mit welchen Tools arbeiten Sie?",
+      "answer": "Die meisten modernen Business-Tools haben APIs. Häufig: Zapier, Make, n8n, Custom APIs, Slack, CRMs, E-Mail-Systeme, Spreadsheets, Datenbanken. Wir bewerten Ihren spezifischen Stack."
+    },
+    {
+      "question": "Was wenn etwas kaputt geht?",
+      "answer": "Alle Automatisierungen beinhalten Fehlerbehandlung und Alerting. Sie wissen sofort wenn etwas fehlschlägt. Wir bauen für Zuverlässigkeit, nicht nur Funktion."
+    },
+    {
+      "question": "Wie gehen Sie mit KI um?",
+      "answer": "KI ist ein Werkzeug, keine magische Lösung. Wir nutzen sie wo angemessen—Textgenerierung, Klassifikation, Zusammenfassung—mit ordentlicher Überwachung und Fallbacks."
+    }
+  ],
+  "cta": {
+    "title": "Bereit zu automatisieren?",
+    "description": "Buchen Sie ein Gespräch um Ihre Automatisierungsmöglichkeiten zu besprechen.",
+    "buttonText": "Erstgespräch buchen"
+  }
+}

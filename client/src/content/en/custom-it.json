@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Custom IT | Bespoke Engineering on Demand",
+    "description": "When off-the-shelf doesn't fit. Bespoke development, APIs, dashboards, data pipelines, and technical debugging."
+  },
+  "hero": {
+    "title": "Custom IT",
+    "tagline": "When nothing else fits."
+  },
+  "forWho": {
+    "title": "Is this for you?",
+    "description": "Custom IT is for businesses with specific technical needs that off-the-shelf solutions can't address.",
+    "points": [
+      "Need to connect systems that don't have existing integrations",
+      "Require custom dashboards or reporting",
+      "Have legacy systems that need modernization",
+      "Face technical problems no one else can solve"
+    ]
+  },
+  "problem": {
+    "title": "The problem",
+    "description": "You have a specific technical need that doesn't fit into a standard service box. Maybe you need a custom API to connect two systems. Maybe you need a dashboard that shows exactly what you need. Maybe you have a legacy system acting up. Generic solutions don't fit."
+  },
+  "solution": {
+    "title": "Our approach",
+    "description": "We scope custom work carefully, build what you need, and hand it off properly. No bloated enterprise solutions. No vendor lock-in. Clean, documented code that works."
+  },
+  "outcomes": {
+    "title": "What we build",
+    "items": [
+      { "metric": "APIs", "description": "Custom integrations between any systems" },
+      { "metric": "Dashboards", "description": "Data visualization tailored to your needs" },
+      { "metric": "Pipelines", "description": "Automated data processing and ETL" },
+      { "metric": "Scripts", "description": "One-off or recurring task automation" }
+    ]
+  },
+  "process": {
+    "title": "Our process",
+    "steps": [
+      { "title": "Scoping Call", "description": "Understand the problem in detail, define success criteria" },
+      { "title": "Technical Assessment", "description": "Evaluate feasibility, estimate effort, propose approach" },
+      { "title": "Fixed Quote", "description": "Clear scope, timeline, and price—no surprises" },
+      { "title": "Build", "description": "Develop with regular check-ins and progress updates" },
+      { "title": "Handoff", "description": "Deploy, document, train, and support the transition" }
+    ]
+  },
+  "deliverables": {
+    "title": "What you get",
+    "items": [
+      "Custom-built solution to your specification",
+      "Full source code and documentation",
+      "Deployment and handover",
+      "Training for your team",
+      "Support period included"
+    ]
+  },
+  "timeline": {
+    "title": "Timeline & expectations",
+    "description": "Varies by project. Small scripts: days. Custom APIs: weeks. Complex systems: months. Every project gets a clear timeline before we start. No open-ended engagements."
+  },
+  "faq": [
+    {
+      "question": "What technologies do you work with?",
+      "answer": "Modern web technologies: JavaScript/TypeScript, Python, Node.js, React. Cloud services: AWS, GCP. Databases: PostgreSQL, MongoDB. We assess your existing stack and recommend accordingly."
+    },
+    {
+      "question": "Do you do maintenance?",
+      "answer": "We include a support period with every project. Long-term maintenance is available as a separate engagement or we can hand off to your team."
+    },
+    {
+      "question": "Can you help with something broken?",
+      "answer": "Yes. We take on debugging and technical rescue projects. We assess the situation, provide honest estimates, and fix what needs fixing."
+    },
+    {
+      "question": "How do you price custom work?",
+      "answer": "Fixed quotes after scoping. We don't do open-ended hourly billing. You know the cost before we start."
+    }
+  ],
+  "cta": {
+    "title": "Have a technical problem to solve?",
+    "description": "Book a scoping call to discuss your needs.",
+    "buttonText": "Book Scoping Call"
+  }
+}

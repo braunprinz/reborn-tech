@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Über uns | Digitaler Systempartner",
+    "description": "Ein spezialisierter Digitalpartner mit Fokus auf Systeme, nicht Kampagnen. Erfahren Sie mehr über unseren Ansatz."
+  },
+  "hero": {
+    "title": "Über uns",
+    "subtitle": "Spezialisierter Digitalpartner, keine generische Agentur"
+  },
+  "story": {
+    "title": "Warum wir existieren",
+    "paragraphs": [
+      "Die meisten Digitalagenturen verkaufen isolierte Dienstleistungen—SEO hier, Webdesign dort, vielleicht etwas Automatisierung nebenbei. Das Ergebnis: fragmentierte Systeme, die nicht miteinander kommunizieren, mehrere Anbieter zu managen, und niemand denkt an das Gesamtbild.",
+      "Wir haben angefangen, weil wir immer wieder das gleiche Muster gesehen haben: Unternehmen mit guter Sichtbarkeit aber Websites, die nicht konvertieren. Websites, die konvertieren, aber niemand findet sie. Prozesse, die in manueller Arbeit ertrinken, weil Systeme nicht verbunden sind.",
+      "Unser Ansatz ist anders. Wir bauen vernetzte Infrastruktur, bei der Sichtbarkeit Ihre Website speist, Ihre Website Traffic konvertiert, Automatisierung Prozesse skaliert und Custom Engineering die Lücken füllt. Ein Partner, ein System, kohärentes Wachstum."
+    ]
+  },
+  "principles": {
+    "title": "Wie wir denken",
+    "items": [
+      {
+        "title": "Systeme statt Services",
+        "description": "Wir verkaufen keine Stunden oder Liefergegenstände. Wir bauen Infrastruktur, die sich über Zeit vervielfacht. Jedes Teil, das wir hinzufügen, macht das Gesamtsystem stärker."
+      },
+      {
+        "title": "Transparenz statt Versprechen",
+        "description": "Wir garantieren keine Rankings oder magische Ergebnisse. Wir setzen realistische Erwartungen, geben ehrliche Einschätzungen und zeigen Ihnen genau, was wir tun und warum."
+      },
+      {
+        "title": "Messung statt Bauchgefühl",
+        "description": "Jede Empfehlung basiert auf Daten. Jede Änderung wird getrackt. Wenn etwas nicht funktioniert, passen wir an. Keine Eitelkeitsmetriken, kein Handwedeln."
+      },
+      {
+        "title": "Tiefe statt Breite",
+        "description": "Wir arbeiten mit weniger Kunden, gehen aber tiefer. Sie bekommen Senior-Expertise bei jedem Engagement, keine Junior-Ausführung mit gelegentlicher Aufsicht."
+      }
+    ]
+  },
+  "approach": {
+    "title": "Unsere Methodik",
+    "description": "Jedes Engagement folgt dem gleichen systematischen Ansatz, angepasst an Ihre spezifische Situation:",
+    "steps": [
+      "Baseline & Audit—Ihren aktuellen Stand verstehen",
+      "Aufbau & Reparatur—Fundamente und Infrastruktur schaffen",
+      "Autorität & Automatisierung—skalieren was funktioniert",
+      "Iteration & Messung—kontinuierliche Verbesserung basierend auf Daten"
+    ]
+  },
+  "cta": {
+    "title": "Möchten Sie zusammenarbeiten?",
+    "description": "Starten Sie mit einem Gespräch. Kein Verkaufsgespräch, nur eine ehrliche Einschätzung, ob wir zusammenpassen.",
+    "buttonText": "Gespräch buchen"
+  }
+}

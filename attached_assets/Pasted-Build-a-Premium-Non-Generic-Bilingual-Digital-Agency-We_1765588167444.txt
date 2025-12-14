@@ -1,0 +1,433 @@
+Build a Premium, Non-Generic, Bilingual Digital Agency Website (DE/EN – fully separated)
+🔴 ABSOLUTE GRUNDREGEL (NICHT VERHANDELBAR)
+
+This project must NOT result in a standard agency website.
+
+No:
+
+template-looking layouts
+
+“hero + services + testimonials + footer” clichés
+
+generic gradients + stock copy
+
+marketing buzzwords without substance
+
+This is a boutique, systems-driven digital partner website.
+If any section looks generic, redesign it.
+
+1️⃣ ROLE & RESPONSIBILITY
+
+You are acting as:
+
+Senior Web Architect
+
+Senior Frontend Engineer
+
+UX/UI Designer with product mindset
+
+Your task is to design and implement a production-ready website that feels:
+
+engineered, not marketed
+
+calm, confident, precise
+
+premium and modern
+
+clearly differentiated from common agency sites
+
+2️⃣ BUSINESS & POSITIONING (UNDERSTAND THIS FIRST)
+
+We are a boutique digital partner, not a general agency.
+
+Our core system:
+
+Visibility → Conversion → Automation → Custom Engineering
+
+What we offer (4 pillars, one system):
+
+Local Growth
+Google Business Profile, Local SEO, Maps & Local Pack visibility
+
+Website Creation & Remodeling
+Conversion-first websites, modern stacks, redesigns
+
+AI Automations
+Workflow automation, integrations, AI-assisted operations
+
+Custom IT Services on Demand
+Bespoke engineering, APIs, dashboards, data & scripts
+
+These are not separate services, but interlocking layers.
+
+3️⃣ LANGUAGE STRATEGY (CRITICAL – READ CAREFULLY)
+❗ German and English are NOT translations
+
+They are:
+
+two separate market experiences
+
+two different tones
+
+two different copies
+
+same structure, same codebase, different thinking
+
+Rules:
+
+User explicitly chooses language via selector
+
+No browser detection
+
+No auto redirect
+
+No fallback
+
+No shared copy
+
+No translation keys
+
+URLs:
+
+/de/...
+
+/en/...
+
+Language switch:
+
+visible at all times
+
+persists via cookie or localStorage
+
+switches route if exists, otherwise homepage of chosen language
+
+4️⃣ CONTENT SEPARATION (MANDATORY)
+Folder structure:
+src/content/
+  de/
+    home.json
+    services.json
+    local-growth.json
+    website.json
+    ai-automations.json
+    custom-it.json
+    work.json
+    about.json
+    faq.json
+  en/
+    home.json
+    services.json
+    local-growth.json
+    website.json
+    ai-automations.json
+    custom-it.json
+    work.json
+    about.json
+    faq.json
+
+Rules:
+
+No shared strings
+
+No translation logic
+
+Locale decides which file is loaded
+
+Same component, different content
+
+5️⃣ TECH STACK (FIXED)
+
+Next.js (App Router) + TypeScript
+
+TailwindCSS
+
+shadcn/ui
+
+Framer Motion
+
+lucide-react
+
+React Hook Form + Zod
+
+next-intl (routing only, not translation keys)
+
+Vercel-ready
+
+Performance:
+
+Lighthouse 90+ mobile
+
+next/image everywhere
+
+lazy loading
+
+minimal JS
+
+6️⃣ BRAND & UI SYSTEM (DEFINE IN CODE)
+Visual Direction:
+
+Dark, calm, technical
+
+Near-black / deep navy base
+
+Off-white text
+
+One restrained accent (cyan/teal)
+
+Soft gradients, glassy cards
+
+Rounded 2xl, subtle shadows
+
+Generous whitespace
+
+Typography:
+
+Strong headline scale
+
+Calm body copy
+
+No playful fonts
+
+Feels “engineered”, not “marketed”
+
+7️⃣ SITE STRUCTURE (SAME PAGES, DIFFERENT COPY)
+Pages (DE & EN):
+
+Home
+
+Services (overview)
+
+Local Growth
+
+Website Creation & Remodeling
+
+AI Automations
+
+Custom IT on Demand
+
+Work (real + simulated cases)
+
+About
+
+Contact
+
+Legal (DE only: Impressum, Datenschutz)
+
+8️⃣ HOMEPAGE – UNIQUE BLOCKS (NO STANDARD LAYOUT)
+
+Build each as its own reusable block component.
+
+A) Hero – System View
+
+Headline: short, confident
+
+Subheadline: explain the system (not buzzwords)
+
+CTAs:
+
+Primary: “Request a Map Audit” / “Book Discovery Call”
+
+Right side:
+
+Interactive System Loop Visual
+(Visibility → Website → Automation → Custom IT)
+
+Subtle motion only
+
+B) Proof Without Bragging
+
+Calm metric tiles (placeholders):
+
+Map grid coverage
+
+Conversion uplift
+
+Hours saved via automation
+
+No logos. No fake testimonials.
+
+C) Four Pillars – Large, Editorial
+
+Not icon boxes.
+
+Each pillar:
+
+short value statement
+
+outcomes
+
+link to detail page
+
+D) Interactive Map Grid Demo
+
+Keyword selector
+
+City selector
+
+Animated demo grid (frontend only)
+
+Label clearly as “Demo visualization”
+
+E) How We Work (Method, not sales)
+
+Timeline:
+
+Baseline & Audit
+
+Build & Fix
+
+Authority & Automation
+
+Iterate & Measure
+
+Expandable, factual, honest.
+
+F) Work / Case Simulations
+
+Show how you think
+
+Include disclaimers
+
+Styled like a report, not a blog
+
+G) FAQ (Important)
+
+Answer uncomfortable questions honestly:
+
+No ranking guarantees
+
+Timelines
+
+Budget reality
+
+Access requirements
+
+Automation limits
+
+H) Final CTA
+
+Minimal.
+Confident.
+No pressure language.
+
+9️⃣ SERVICE DETAIL PAGES (ENGINEERING, NOT MARKETING)
+
+Each service page must include:
+
+Who it’s for
+
+What problem it solves
+
+Outcomes (measurable)
+
+Step-by-step process
+
+Deliverables
+
+Timeline & expectations
+
+Service-specific FAQ
+
+CTA
+
+Special notes:
+
+Local Growth: GBP, citations, grid strategy, reporting
+
+Website: UX, performance, SEO, rebuilds, handover
+
+AI Automations: workflows, integrations, AI components, monitoring
+
+Custom IT: scoped help, APIs, dashboards, scripts, debugging
+
+🔟 CONTACT PAGE (QUALIFY, NOT BEG)
+
+Form fields:
+
+Business name
+
+Website
+
+GBP link (optional)
+
+Country / City
+
+Primary need (multi-select)
+
+Budget range
+
+Timeline
+
+Message
+
+Validated with Zod.
+API route placeholder only.
+
+1️⃣1️⃣ SEO & STRUCTURED DATA
+
+Separate metadata per locale
+
+hreflang correctly set
+
+Organization schema
+
+Service schema per service page
+
+FAQPage schema
+
+Breadcrumb schema
+
+Sitemap & robots
+
+1️⃣2️⃣ PROJECT STRUCTURE (MANDATORY)
+src/
+  app/[locale]/(site)/
+  components/
+    blocks/
+    ui/
+  content/de/
+  content/en/
+  lib/i18n/
+  lib/seo/
+  theme/
+
+
+Reusable blocks:
+
+HeroSystemLoop
+
+ProofStrip
+
+PillarsGrid
+
+MapGridDemo
+
+MethodTimeline
+
+WorkShowcase
+
+FAQBlock
+
+CTASection
+
+1️⃣3️⃣ DELIVERABLE
+
+Generate:
+
+Full codebase
+
+All pages
+
+All components
+
+DE + EN content (native tone, not mirrored)
+
+README:
+
+run project
+
+edit content
+
+add services / cases
+
+Proceed without asking questions unless technically unavoidable
